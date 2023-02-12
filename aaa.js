@@ -3,6 +3,7 @@ REDEFINE.refresh = () => {
     REDEFINE.initMenuShrink();
     REDEFINE.initModeToggle();
     REDEFINE.initBackToTop();
+    aaa
 
     if (REDEFINE.theme_config.local_search.enable === true) {
       REDEFINE.initLocalSearch();
