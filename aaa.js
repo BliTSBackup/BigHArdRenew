@@ -20,3 +20,9 @@ REDEFINE.refresh = () => {
 
   REDEFINE.printThemeInfo();
   REDEFINE.refresh();
+  REDEFINE.printThemeInfo();
+  REDEFINE.refresh();  REDEFINE.printThemeInfo();
+  REDEFINE.refresh();  REDEFINE.printThemeInfo();
+  REDEFINE.refresh();  REDEFINE.printThemeInfo();
+  REDEFINE.refresh();  REDEFINE.printThemeInfo();
+  REDEFINE.refresh();
